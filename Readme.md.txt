@@ -1,0 +1,2 @@
+I learned how to create a basic pipeline job in Jenkins.And explored the dashboard and saw how to check build progress and logs.
+I added a new stage to the pipeline and ran it again to see the changes and how they are getting reflected and got a basic idea of how a groovy script would look like.
